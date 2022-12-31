@@ -1,2 +1,2 @@
 # TodoListReact
-리액트를 활용한 TodoList
+리액트 TodoList
